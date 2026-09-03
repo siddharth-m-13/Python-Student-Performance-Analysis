@@ -79,4 +79,3 @@ The model was evaluated using:
 
 Aspiring Data Analyst skilled in SQL, Excel, Power BI, and Python.
 
-📍 Tamil Nadu, India
